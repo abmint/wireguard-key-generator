@@ -1,0 +1,1 @@
+# wireguard-key-generator
